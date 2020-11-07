@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30611.23
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AliRobot", "AliRobot\AliRobot.csproj", "{D4BA6B7F-7FF3-4578-B068-06A25F4DA7EE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D4BA6B7F-7FF3-4578-B068-06A25F4DA7EE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D4BA6B7F-7FF3-4578-B068-06A25F4DA7EE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D4BA6B7F-7FF3-4578-B068-06A25F4DA7EE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D4BA6B7F-7FF3-4578-B068-06A25F4DA7EE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5125B605-3592-4A7E-B614-FA476B5ED076}
+	EndGlobalSection
+EndGlobal
